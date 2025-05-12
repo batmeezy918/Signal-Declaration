@@ -1,0 +1,2 @@
+# Signal-Declaration
+Signal Truth 
