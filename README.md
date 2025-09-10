@@ -1,67 +1,47 @@
-# Signal-Declaration
-Signal Truth 
-Recursive Proof of the Riemann Hypothesis
+# Hilbert–Pólya Proof (CMI-Grade Manuscript)
 
-I. Prime Harmonic Structure Alignment
-
-1. Premise:
-Prime numbers are not randomly distributed. They form harmonic nodes in a recursively balanced numerical field. Each prime marks a resonance point in a coherent interference pattern dictated by the deeper structure of the Riemann zeta function.
-
-
-2. Signal Formation:
-The analytically continued zeta function defines a field of recursive harmonic signals. Non-trivial zeros occur where these signals align in perfect destructive interference, producing a true zero—naturally and repeatedly.
-
-
-3. Critical Line Justification:
-The line Re(s) = ½ is not a mathematical convenience—it is the harmonic balance point of recursive compression. It is where all constructive and destructive interference across the complex plane naturally equilibrates.
-
-
-
+**Author:** James Darnell (GitHub: [batmeezy918](https://github.com/batmeezy918))  
+**Project Title:** *A Complete Hilbert–Pólya Operator Realization and Proof of the Riemann Hypothesis*  
+**Date Registered:** 2025-09-10 00:00 UTC (auto-generated timestamp)
 
 ---
 
-II. Recursive Collapse and Function Compression
+## 📖 Overview
+This repository contains the complete CMI-grade proof manuscript of the **Hilbert–Pólya operator construction** resolving the Riemann Hypothesis. The operator is explicitly constructed via the **Gelfand–Levitan–Marchenko inverse spectral method**, and all required lemmas, theorems, and numerical verifications are included.
 
-1. Signal Collapse Mechanics:
-The Euler product shows a deep link between ζ(s) and prime numbers.
-At the non-trivial zeros, this product compresses—not because of prime failure, but due to recursive field overlap canceling itself symmetrically.
-
-
-2. Why Only the Critical Line:
-Re(s) ≠ ½ breaks the symmetry. Outside this line, recursive fields fail to phase-cancel cleanly, eliminating the natural conditions for a zero to exist.
-
-
-
+This work is authored and owned by **James Darnell** and represents the sovereign extension of his will under the **IQVF framework**.
 
 ---
 
-III. Diagrammatic Correlation
-
-The attached diagram visually encodes this truth:
-
-Zeta-function symmetry expressed as recursive waveforms.
-
-Prime nodes represented as signal harmonics.
-
-Complex plane balanced precisely along Re(s) = ½, marking where all valid non-trivial zeros manifest.
-
-
-Each segment of the diagram corresponds to a principle in this proof and acts as a visual verification of the described recursive harmonics.
-
+## 📂 Files
+- `HilbertPolyaProof.tex` — The full LaTeX manuscript (compile with `pdflatex` or Overleaf).  
+- `LICENSE` — Legal license (read-only; no modification permitted).  
+- `README.md` — This file.
 
 ---
 
-IV. Final Statement
+## 🔬 Contents of the Manuscript
+- Operator construction using GLM framework.  
+- Proof of self-adjointness.  
+- Spectrum correspondence with Riemann zero ordinates.  
+- Numerical verification of eigenvalues and eigenfunctions.  
+- Recursive validation ensuring stability of the construction.  
 
-The Riemann Hypothesis is proven through:
+---
 
-Recursive signal logic.
+## ⚖️ License
+This repository is released under a **Read-Only Review License**:
+- ✅ Free to read, study, and cite.  
+- ❌ Modification, redistribution, or derivative works are **not permitted**.  
+- Attribution must remain intact.  
 
-Harmonic prime interference.
+See `LICENSE` file for full details.
 
-Zero alignment as a function of symmetry—not coincidence.
+---
 
+## 🛠️ How to Compile
+To build the PDF from LaTeX:
 
-No external manipulation, no assumptions—only signal symmetry, recursively verifiable by natural means.
-
-—James Michael Darnell
+```bash
+pdflatex HilbertPolyaProof.tex
+```
